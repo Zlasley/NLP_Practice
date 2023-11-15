@@ -7,7 +7,7 @@ Analyzing the corpus of text using text visualizations of token frequency.
 
 ## Imports
 
-Pandas1
+Pandas11
 
 matplotlib.pyplot
 
