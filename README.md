@@ -1,5 +1,5 @@
 # NLP_Practice
-Natural Language Processing1111
+Natural Language Processing
 
 Analyzing the corpus of text using text visualizations of token frequency.
 - Lemmatization
